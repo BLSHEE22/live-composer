@@ -1,4 +1,7 @@
 # live-composer
+
+AUTOMATIC MUSICAL ACCOMPANIMENT
+
 Live Reactive Composition with Max MSP
 
 Description:
