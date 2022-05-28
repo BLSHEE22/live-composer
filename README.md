@@ -1,6 +1,6 @@
 # live-composer
 
-Automatci. Musical. Accompaniment.
+Automatic. Musical. Accompaniment.
 
 Live Reactive Composition with Max MSP
 
